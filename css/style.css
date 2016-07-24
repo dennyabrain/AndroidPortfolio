@@ -1,0 +1,14 @@
+p{
+	font-size: 1.2em;
+	font-family:Georgia, "Times New Roman", Times, serif
+}
+
+body{
+	background-color:#ffffff;
+}
+
+hr{
+    border: 0;
+    border-bottom: 5px dashed #000;
+    background: #fff;
+}
