@@ -32,3 +32,16 @@ hr{
 	text-align: right;
 }
 
+.center-align{
+	text-align: center;
+}
+
+.title{
+	color:#333333;
+	text-decoration: none;
+}
+
+.title:hover{
+	color:#333333;
+	text-decoration: none;
+}
