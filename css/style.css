@@ -36,12 +36,12 @@ hr{
 	text-align: center;
 }
 
-.title{
+.anchor{
 	color:#333333;
 	text-decoration: none;
 }
 
-.title:hover{
+.anchor:hover{
 	color:#333333;
 	text-decoration: none;
 }
