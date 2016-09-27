@@ -16,6 +16,7 @@ hr{
 .gifBox {
     box-shadow: 7px 7px 5px #888888;
     margin: 0 auto;
+    border-radius: 0.6em;
 }
 
 .caption{
@@ -26,3 +27,8 @@ hr{
 	font-size: 0.8em;
 	font-weight: bold;
 }
+
+.right-align{
+	text-align: right;
+}
+
