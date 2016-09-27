@@ -12,3 +12,17 @@ hr{
     border-bottom: 5px dashed #000;
     background: #fff;
 }
+
+.gifBox {
+    box-shadow: 7px 7px 5px #888888;
+    margin: 0 auto;
+}
+
+.caption{
+	margin-top: 2em;
+	font-family: "Arial", Verdana, Sans-serif;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 0.8em;
+	font-weight: bold;
+}
