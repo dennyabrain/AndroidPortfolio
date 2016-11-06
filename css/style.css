@@ -45,3 +45,8 @@ hr{
 	color:#333333;
 	text-decoration: none;
 }
+
+.linkBox img{
+	margin-right:auto;
+	margin-left:auto;
+}
